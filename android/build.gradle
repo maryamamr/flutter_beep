@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.gonoter.flutter_beep"
+    namespace 'com.gonoter.flutter_beep'
     compileSdk 34
 
     defaultConfig {
